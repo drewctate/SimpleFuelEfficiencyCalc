@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/main.xml
+SHA1-Digest: kTqz7ekCbQJIUTmCQafzXMynwoc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: wCxzxH01iTEslY67KZz8lIckSQY=
+
+Name: res/drawable/icon.png
+SHA1-Digest: BO5o39ugFXIDkgxJ0wd4MP0j2r4=
+
+Name: res/drawable/odometer.png
+SHA1-Digest: K+7ivNzKlfy5hwrQvmU4Pjo0kfY=
+
+Name: resources.arsc
+SHA1-Digest: FiticxDWESJrmP9UV7VKanaCa+o=
+
+Name: classes.dex
+SHA1-Digest: sIxwLixGTwidECCMqCACP1nu0PU=
+

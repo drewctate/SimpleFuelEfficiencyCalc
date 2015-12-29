@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="fec_label">false</item>
+    <item type="id" name="odometer">false</item>
+    <item type="id" name="fuel">false</item>
+    <item type="id" name="mile_radio">false</item>
+    <item type="id" name="kilometer_radio">false</item>
+    <item type="id" name="gallon_radio">false</item>
+    <item type="id" name="liter_radio">false</item>
+    <item type="id" name="update_button">false</item>
+</resources>

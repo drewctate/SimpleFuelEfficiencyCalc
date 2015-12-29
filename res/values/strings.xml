@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Fuel Efficiency Calculator</string>
+    <string name="fuel_label">Enter fuel amount:</string>
+    <string name="fuel_hint">Amount of Fuel</string>
+    <string name="odometer_label">Enter distance:</string>
+    <string name="odometer_hint">Distance</string>
+    <string name="update_button_text">Update</string>
+    <string name="gallon_radio_label">Gallons</string>
+    <string name="liter_radio_label">Liters</string>
+    <string name="mile_radio_label">Miles</string>
+    <string name="kilometer_radio_label">Kilometers</string>
+</resources>
